@@ -3,7 +3,7 @@ package gajewski.jerzy.rest.task.service;
 import org.springframework.stereotype.Service;
 
 @Service
-public class MainService {
+public class PongService {
 
 
     public String getPong() {
